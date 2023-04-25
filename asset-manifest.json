@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/chuks-test-training/static/css/main.7acaea2f.css",
+    "main.js": "/chuks-test-training/static/js/main.0637487d.js",
+    "index.html": "/chuks-test-training/index.html",
+    "main.7acaea2f.css.map": "/chuks-test-training/static/css/main.7acaea2f.css.map",
+    "main.0637487d.js.map": "/chuks-test-training/static/js/main.0637487d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.0637487d.js"
+  ]
+}
